@@ -1,6 +1,6 @@
 # Estrutura Condicional e Funções
 
-Este repositório contém os exercícios desenvolvidos na **CP2 (Checkpoint 2)** da disciplina de **Pensamento Computacional e Automação com Python**, do curso de **Ciência da Computação na FIAP**.
+Este repositório contém aplicações que utilizam estruturas condicionais e funções.
 
 ## Arquivos
 
