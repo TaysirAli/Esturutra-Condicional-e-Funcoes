@@ -67,4 +67,5 @@ print(
     f"Preço da carga:\t\t\t\tR$ {preco_carga_formatado}\n"
     f"Imposto total:\t\t\t\tR$ {imposto_formatado}\n"
     f"Valor Final:\t\t\t\tR${preco_t_formatado}"
+
 )
